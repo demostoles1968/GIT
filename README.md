@@ -1,5 +1,4 @@
 # git essentials
 
-Se añaden unas cuantas lineas 
-para ver el resultado del comando 
-git diff
+Esto es una prueba de como hacer
+una pull request
