@@ -1,2 +1,3 @@
 Va a haber un conflicto de ficheros
-en este merge
+Fichero modificado desde GITHUB
+para ver el efecto de conflicto
