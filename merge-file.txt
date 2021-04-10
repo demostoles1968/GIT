@@ -1,0 +1,2 @@
+Va a haber un conflicto de ficheros
+en este merge
